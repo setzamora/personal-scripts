@@ -1,2 +1,2 @@
-# This is a repo of my personal python scripts. Nothing special here.
-
+# Python Scripts
+Nothing special here, just a repository of my personal python scripts.
