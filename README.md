@@ -1,2 +1,2 @@
-# Python Scripts
-Nothing special here, just a repository of my personal python scripts.
+# Scripts to Attack WPA2
+Nothing special here, just a repository of my python scripts for attacking WPA2.
